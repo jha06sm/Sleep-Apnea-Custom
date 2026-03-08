@@ -1,0 +1,2 @@
+Method,SegmentThreshold,RecordThreshold(AHI),Accuracy(%),Sensitivity(%),Specificity(%),AUC,Corr,BalancedAccuracy(%)
+file_name,0.3,22,99.99999997142857,99.99999994117647,99.99999994444444,1.0,0.9873957295853726,99.99999994281046
