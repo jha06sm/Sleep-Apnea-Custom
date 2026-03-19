@@ -1,5 +1,5 @@
 # Sleep-Apnea
-
+Exp11.ipynb contains the main model which gives the accuracy of 94 % in Sleep apnea Detection from single channel ECG
 # Preparations
 ## Dataset
 The data is available at [Apnea-ECG Database](https://physionet.org/content/apnea-ecg/1.0.0/). Please download and extract the file to `dataset`.
